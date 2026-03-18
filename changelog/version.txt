@@ -1,0 +1,8 @@
+1.0.1
+# Changelog
+### Added
+- Print short update notes to server log.
+### Changed
+- Prevent HTML being parsed as version string.
+### Removed
+- Unused Comments
